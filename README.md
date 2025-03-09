@@ -1,5 +1,7 @@
 ## URBAN TECH 
 
+### COMP3350 Project
+
 ### Purpose of the Project:
 
 * Create user friendly online store that allows regular people to find and purchase phones, computers, wearables, and software products on-demand from anywhere.
